@@ -1,0 +1,9 @@
+MC.03 - version estatica portable
+
+1. Descomprime TODO el ZIP manteniendo las carpetas.
+2. Abre index.html con doble clic.
+3. Tambien puedes abrir es/index.html directamente.
+
+Esta variante usa rutas relativas y un bundle JavaScript clasico para que CSS, imagenes, navegacion e interacciones funcionen con file:// y al servirla desde una subcarpeta.
+
+Para produccion se recomienda servirla por HTTPS.

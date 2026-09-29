@@ -1,0 +1,26 @@
+{
+  "version": "3.0.0",
+  "contentDate": "2026-09-29",
+  "base": "/",
+  "site": "https://martiincantero.github.io",
+  "routes": [
+    "es/",
+    "es/trabajo/3d-observer/",
+    "es/trabajo/sgr-it/",
+    "es/trabajo/game-servers/",
+    "es/colofon/",
+    "es/privacidad/",
+    "en/",
+    "en/work/3d-observer/",
+    "en/work/sgr-it/",
+    "en/work/game-servers/",
+    "en/colophon/",
+    "en/privacy/"
+  ],
+  "assets": {
+    "css": "assets/site.8a98864c44.css",
+    "js": "assets/main.portable.fea59c9a5c.js"
+  },
+  "mode": "portable",
+  "note": "Can be opened directly from file:// or served from any subfolder."
+}
